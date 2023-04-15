@@ -1,0 +1,178 @@
+body{
+    display : flex;
+    background-color: black;
+    box-sizing: border-box;
+    flex:1;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.op {
+    display : flex;
+    gap : 20px;
+    padding-left : 500px;
+}
+.one {
+    display: flex;
+    
+    gap : 30px;
+    justify-content: center;
+    align-items: center;
+    color : gainsboro;
+    
+    
+}
+.text {
+    color : gainsboro;
+}
+.head {
+    display: flex;
+    justify-content: flex-start;
+    margin-right : 75px;
+    color : white;
+    font-size: 25px;
+    
+}
+.hero {
+    display : flex;
+    flex-wrap: wrap;
+    gap : 40px;
+    justify-content: center;
+    align-items : center;
+    margin-bottom : 50px;
+    margin-right : 50px;
+    height : 350px;
+    
+}
+.hero1{
+    margin-top : 30px;
+    display : flex;
+    flex-direction: column;
+    max-width: 350px;
+    margin-left : 200px;
+    margin-bottom : 10px;
+}
+.hero2{
+    padding: 100px;
+    margin-left : 50px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: gray;
+    margin-top : 90px;
+    
+}
+p {
+    font-size : 48px;
+    color : #f9faf8;
+    font-weight: bold;
+    margin-bottom : 10px;
+}
+.info {
+    font-size: 40px;
+    color : black;
+    padding-left: 30px;
+    font-weight: 700;
+}
+
+.three {
+    display : flex;
+    flex-direction: column;
+    align-items : center;
+    background-color: aliceblue;
+    gap : 50px;
+    padding : 50px;
+    margin-left : 50px;
+    margin-right : 50px;
+    
+    width : 1300px;
+}
+.stress {
+    display : flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap : 40px;
+    margin-right : -60px;
+}
+img {
+    height : 100px;
+    width: 100px;
+}
+.a {
+   width : 125px;
+}
+.four {
+    display : flex;
+    flex-direction: column;
+    flex-wrap : wrap;
+    align-items: center;
+    
+    padding : 100px;
+    background-color: gainsboro;
+    margin-left : 50px;
+    margin-right : 50px;
+    
+    width : 1200px;
+}
+.bhashan {
+    max-width : 800px;
+    font-size : 36px;
+    text-align: left;
+    font-style: italic;
+    color : rgb(114, 101, 155);
+}
+.thor {
+    padding-left: 300px ;
+    font-size: 25px;
+    font-weight : bold;
+    color :rgb(236, 48, 126);
+}
+.dad{
+    background-color: whitesmoke;
+    margin-left : 50px;
+    margin-right : 50px;
+    width : 1400px;
+    height : 200px;
+    margin-top : -50px;
+    padding-top : 100px;
+}
+.five{
+    height : 20px;
+    border-style: solid;
+    border-radius: 5px;
+    display : flex;
+    background-color: cornflowerblue;
+    padding: 50px;
+    padding-top : 50px;
+    gap : 200px;
+    margin-bottom : 100px;
+    width : 700px;
+    justify-items: center;
+    margin-left : 300px;
+    align-items : center;
+    margin-right : 300px;
+    padding-top : 40px;
+    padding-left : 80px;
+}
+.tx{
+    font-size : 25px;
+    color : white;
+}
+.button {
+    color : white;
+    background-color:cornflowerblue;
+    width : 100px;
+    padding-top : 5px;
+    padding-bottom : 5px;
+    margin-top : 15px;
+    cursor : pointer;
+    border-style: solid;
+    border-radius : 10px;
+}
+.vous {
+    color:white;
+    background-color:cornflowerblue ;
+    cursor : pointer;
+    border-style : solid;
+    border-color: white;
+    border-radius: 10px;
+    padding: 5px 20px 5px 20px;
+    width : 100px;
+} 
